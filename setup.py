@@ -12,7 +12,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/yangg1224/address_cleanning.git',
+    url='https://github.com/yangg1224/ADC.git',
     project_urls = {
         "Bug Tracker": "https://github.com/Muls/toolbox/issues"
     },
