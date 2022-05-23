@@ -5,7 +5,7 @@ with open("readme.txt", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='ADC Python Library',
+    name='ADC',
     version='0.0.1',
     author='Yang Wu',
     author_email='yang.wu@ontario.ca',
