@@ -7,9 +7,14 @@ A spatial data cleaning package specially tailored for Canadian addresses. You m
 ### Python Standard Libraries
  - Pandas
  - regex
- - math
- - sys
- - os
+ - python-dateutil>=2.7.3
+ - pytz>=2017.3
+ - numpy>=1.17.3
+ - urllib3<1.27,>=1.21.1
+ - certifi>=2017.4.17
+ - idna<4,>=2.5
+ - charset-normalizer~=2.0.0
+ - six>=1.5
  
 ## Installation
 
