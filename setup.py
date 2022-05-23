@@ -18,5 +18,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['ADC'],
-    install_requires=['requests','pandas','re'],
+    install_requires=['requests','pandas','regex'],
 )
