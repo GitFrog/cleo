@@ -38,7 +38,7 @@ Please check the attachment in the code example folder.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Acknowledgement
-Special thanks to MCCSS, who paid me a salary to make this happen. \n
+Special thanks to MCCSS, who paid me a salary to make this happen. /n
 Special thanks to our wonderful team (Tarun, Lee, Michelle, Hong, Jehro, YiCheng)
 
 ## License
