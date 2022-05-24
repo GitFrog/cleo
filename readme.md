@@ -22,5 +22,20 @@ A spatial data cleaning package specially tailored for Canadian addresses. You m
 pip install git+https://github.com/yangg1224/ADC.git
 ```
 
- 
+## Usage
+Features:
+* clean_postcode  --> upper case the string; remove the space in the middle; remove the dash
+* validate_postal    --> create pattern to validate a postcode; Return True/False
+* clean_address      --> standardize, autocorrect, and validate address
+* clean_address_without_unitnum  --> standardize, autocorrect, and validate address, remove the unit number in the address
+* component_addr      --> Batch process the address column & return six components back to the dataframe
+
+
 ## Examples
+Please check the attachment in the code example folder. 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
